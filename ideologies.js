@@ -6,7 +6,11 @@ ideologies = [
             "de": {
                 "name": "Marxismus-Leninismus",
                 "desc": "Der Marxismus-Leninismus ist eine Form des Marxismus, der im 20. Jahrhundert in der Sowjetunion geschmiedet wurde. Die Marxisten-Leninisten befürworten nachdrücklich den Einsatz einer kommunistischen politischen Partei als Plattform für die Erreichung der Revolution und die Errichtung des Sozialismus. Viele Marxisten-Leninisten sind etwas nationalistischer und patriotischer als viele andere Marxisten und bevorzugen möglicherweise den industriellen Fortschritt gegenüber Umweltzielen."
-            }
+            },
+            "es": {
+		"name": "Marxismo-Leninismo",
+		"desc": "El Marxismo-Leninismo es una forma de Marxismo que se forjó en la Unión Soviética durante el siglo 20. Los Marxistas-Leninistas están muy a favor del uso de un partido político comunista como plataforma tanto para lograr la revolución como para establecer el socialismo. Muchos Marxistas-Leninistas son un tanto más nacionalistas y patriotas que otros Marxistas, y pueden llegar a favorecer el progreso industrial por sobre logros ambientalistas."
+	    }
         },
         "stats": {
             "a": 80,
@@ -25,8 +29,12 @@ ideologies = [
             "de": {
                 "name": "Orthodoxer Marxismus",
                 "desc": "Der orthodoxe Marxismus ist eine Form des Marxismus, die Ansichten annimmt, die der ursprünglich verfassten marxistischen Theorie entsprechen, insbesondere zum Thema des dialektischen Materialismus. Orthodoxe Marxisten sind hochrevolutionär und internationalistisch und halten nichtindustrielle Gesellschaften für unfähig, den Sozialismus zu verwirklichen."
-            }
-        },
+            },
+	    "es": {
+		"name": "Marxismo Ortodoxo",
+		"desc": "El Marxismo Ortodoxo es una forma de Marxismo que adopta puntos de vista que se adhieren a la teoría Marxista tal y como estaba escrita originamente, particularmente en el tema del materialismo dialéctico. Los Marxistas Ortodoxos son altamente revolucionarios e internacionalistas, y mantienen que sociedades no industriales son incapaces de alcanzar el socialismo."
+	    }
+	},
         "stats": {
             "a": 80,
             "b": 80,
@@ -44,6 +52,10 @@ ideologies = [
             "de": {
                 "name": "Öko-Marxismus",
                 "desc": "Der Öko-Marxismus ist eine Form des orthodoxen Marxismus, der in der heutigen Zeit häufiger anzutreffen ist und der Umweltfragen einen besonderen Stellenwert einräumt. Öko-Marxisten bevorzugen im Allgemeinen die zentrale Wirtschaftsplanung als Mittel zur Bekämpfung von Klimaproblemen."
+            },
+            "es": {
+                "name": "Ecomarxismo",
+                "desc": "El Ecomarxismo es una forma de Marxismo Ortodoxo, comúnmente encontrada en el día moderno, que pone un énfasis particular en los problemas ambientales. Los Ecomarxistas generalmente favorecen una planificación central de la economía como una forma de combatir problemas climáticos."
             }
         },
         "stats": {
@@ -63,6 +75,10 @@ ideologies = [
             "de": {
                 "name": "Zentristischer Marxismus",
                 "desc": "Der zentristische Marxismus ist eine Form des Marxismus, der die marxistischen Ansichten über die Gesellschaft und die Wirtschaft aufgreift und gleichzeitig davon Abstand nimmt, eine endgültige Position in Bezug auf Revolution und Reformismus einzunehmen. Viele zentristische Marxisten sind möglicherweise auch nationalistischer als andere Marxisten."
+            },
+	    "es": {
+                "name": "Marxismo Centrista",
+                "desc": "El Marxismo Centrista es una forma de Marxismo que adopta una visión socioeconómica Marxista mientras que se abstiene de tomar una posición definida entre revolución y reformismo. Muchos Marxistas Centristas llegan a ser más nacionalistas que otros Marxistas."
             }
         },
         "stats": {
@@ -82,6 +98,10 @@ ideologies = [
             "de": {
                 "name": "Konzilkommunismus",
                 "desc": "Der Konzilskommunismus ist eine Form des Marxismus, die sich dafür einsetzt, dass die Arbeiterräte das Kernfundament einer sozialistischen Gesellschaft bilden. Die Kommunisten des Rates lehnen im Allgemeinen die Existenz eines starken Einflusses der politischen Parteien innerhalb des sozialistischen politischen Systems ab und befürworten die Demokratie des Rates."
+            },
+	    "es": {
+                "name": "Comunismo Consejista",
+                "desc": "El Comunismo Consejista es una forma de Marxismo que defiende a las condejos de obreros como el núcleo de una sociedad socialista. Los Consejistas tienden a oponerse a la existencia de una fuerte influencia de los partidos políticos dentro del sistema político socialista, favoreciendo una democracia consejista."
             }
         },
         "stats": {
