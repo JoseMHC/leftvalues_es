@@ -110,7 +110,7 @@ const i18n = {
     "result-url": {
         "en": "<br>You can send these results by copying and pasting the URL at the top of the page or using the image below.",
         "de": "<br>Sie können diese Ergebnisse senden, indem Sie die URL oben auf der Seite kopieren und einfügen oder das folgende Bild verwenden.",
-        "es": "<br>Puedes mandar estos resultados coopiando y pegando la URL en la parte superior de la página, o usando la imagen abajo."
+        "es": "<br>Puedes mandar estos resultados copiando y pegando la URL en la parte superior de la página, o usando la imagen abajo."
     },
     "result-h2-match": {
         "en": "Closest Match: <span class='weight-300' id='ideology-label'> </span>",
